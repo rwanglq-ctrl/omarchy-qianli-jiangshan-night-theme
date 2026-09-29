@@ -1,0 +1,31 @@
+# 千里江山·夜 Qianli Jiangshan Night — 深青绿为底、绢色为字、石绿为印。浅色版见 qianli-jiangshan。
+mode = "dark"
+accent = "#5FB39A"
+selection = "#244345"
+muted = "#616962"
+
+background = "#0F1C1D"
+dark_background = "#0A1213"
+darker_background = "#050909"
+lighter_background = "#192F31"
+
+foreground = "#E6DCC4"
+dark_foreground = "#8E8A78"
+light_foreground = "#C8BFA8"
+bright_foreground = "#EEE7D6"
+
+red = "#D96C55"
+yellow = "#D2B060"
+orange = "#D08A50"
+green = "#5FB39A"
+cyan = "#5EB0B8"
+blue = "#6FA2D4"
+magenta = "#C487A6"
+brown = "#AE8A64"
+
+bright_red = "#E08976"
+bright_yellow = "#DBC080"
+bright_green = "#7BC0AB"
+bright_cyan = "#7ABEC4"
+bright_blue = "#8EB6DD"
+bright_magenta = "#D1A2BA"
